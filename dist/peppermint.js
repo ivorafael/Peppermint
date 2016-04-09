@@ -714,3 +714,5 @@ function EventBurrito(_this, options) {
         }
     }
 }
+
+export default Peppermint;
